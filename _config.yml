@@ -4,17 +4,17 @@ title: Carlos Daniel Carrasco
 # Description of your website. This is used for social sharing.
 description: Computational Cognitive Neuroscientist
 # A brief blurb about yourself
-content: I am currently a PhD Candidate in the Neuroscience program at UC Davis working with Dr. Erie Boorman and Dr. Steven Luck. My interests lie at the intersection of memory and decision making processes that guide behavior. Currently I am working on projects involving working memory, the temporal credit assignment problem, and soon memory reinstatement decoding using EEG. Outside of lab I enjoy going out with friends, playing the guitar, and occasionally playing videogames or trying out new hobbies
+content: I am currently a PhD Candidate in the Neuroscience program at UC Davis working with Dr. Erie Boorman and Dr. Steven Luck. My interests lie at the intersection of memory and decision making processes that guide behavior. Currently I am working on projects involving working memory, the temporal credit assignment problem, and memory reinstatement decoding using EEG. Outside of lab I enjoy going out with friends, playing the guitar, sight seeing, and spending time with loved ones.
 # Add your social links
 social:
-  - platform: github
+  - platform: Github
     url: https://github.com/mojorisin24
-  - platform: Luck Lab
-    url: https://lucklab.ucdavis.edu/
-  - platform: LDM Lab
-    url: http://ldm.ucdavis.edu/
+  - platform: Google Scholar
+    url: https://scholar.google.com/citations?user=Nh0i3UQAAAAJ&hl=en
   - platform: Twitter
     url: https://twitter.com/CDCarrasco_
+  - platform: Academic Profile
+    url: https://grad.neuroscience.ucdavis.edu/student-profile?id=10908
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
