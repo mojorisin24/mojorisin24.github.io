@@ -1,29 +1,28 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Carlos Daniel Carrasco
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
-
+description: Neuroscience PhD Candidate at UC Davis 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Hello everyone, I am currently working with Dr. Erie Boorman and Dr. Steven Luck. My interests lie at the intersection of memory and decision making processes that guide behavior. Currently I am working on projects involving: working memory, the temporal credit assignment problem, and soon memory reinstatement decoding all using EEG. Outside of lab I enjoy going out with friends, playing the guitar, and occasionally playing videogames or trying out new hobbies. I am hoping to use this webpage as a directory to allow public access to all my analyses scripts for the projectes I am working on. If you are ever curious about something or would want to start a collaboration feel free to reach out!
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+    url: https://github.com/mojorisin24
+  - platform: Luck Lab
+    url: https://lucklab.ucdavis.edu/
+  - platform: LDM Lab
+    url: http://ldm.ucdavis.edu/
+  - platform: Twitter
+    url: https://twitter.com/CDCarrasco_
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: #"UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
