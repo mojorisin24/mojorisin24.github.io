@@ -2,10 +2,9 @@
 title: Carlos Daniel Carrasco
 
 # Description of your website. This is used for social sharing.
-description: Neuroscience PhD Candidate at UC Davis 
+description: Computational Cognitive Neuroscientist
 # A brief blurb about yourself
-content: Hello Everyone. I am interested in memory processes and how they impact decisions. 
-
+content: I am currently a PhD Candidate in the Neuroscience program at UC Davis working with Dr. Erie Boorman and Dr. Steven Luck. My interests lie at the intersection of memory and decision making processes that guide behavior. Currently I am working on projects involving working memory, the temporal credit assignment problem, and soon memory reinstatement decoding using EEG. Outside of lab I enjoy going out with friends, playing the guitar, and occasionally playing videogames or trying out new hobbies
 # Add your social links
 social:
   - platform: github
