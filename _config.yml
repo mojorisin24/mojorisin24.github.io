@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Carlos Daniel Carrasco, Neuroscientist"
 title_separator          : "-"
-name                     : &name "Carlos Daniel Carrasco"
+name                     : &name "Carlos"
 description              : &description "personal description"
 url                      : https://mojorisin24.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0533-8599"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=carlos_carrasco"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=carlos_daniel_carrasco"
   researchgate     : # URL
   scopus           : # URL
 
