@@ -2,7 +2,7 @@
 title: "A database of upper limb surface electromyogram signals from demographically diverse individuals"
 collection: publications
 category: datasets
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2.md
 excerpt: 'This open-access dataset provides upper limb surface EMG signals and physiological measures from 91 adults, enabling research into demographic variability in EMG-based gesture decoding.'
 date: 2025-03-27
 venue: 'Scientific Data'
