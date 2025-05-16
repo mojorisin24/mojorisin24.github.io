@@ -48,35 +48,16 @@ Skills
 
 Publications
 ======
-* Carrasco, C., Simmons, K., Kiat, J., & Luck, S. J. (2024). *Enhanced Working Memory Representations for Rare Events*. Psychophysiology.  
-  [https://doi.org/10.1101/2024.03.20.585952](https://doi.org/10.1101/2024.03.20.585952)
-
-* Zhang, W., Carrasco, C., Winsler, K., Bahle, B., Cong, Y., & Luck, S. J. (2024). *Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data*. Neuroimage.  
-  [https://doi.org/10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
-
-* Carrasco, C., Simmons, K., Bahle, B., & Luck, S. J. (2024). *Using Multivariate Pattern Analysis to Increase Effect Sizes for Event-Related Potential Analyses*. Psychophysiology.  
-  [https://doi.org/10.1101/2023.11.07.566051](https://doi.org/10.1101/2023.11.07.566051)
-
-* Shires, A., Carrasco, C., & Berryhill, M. (2020). *No tDCS augmented working memory training benefit in undergraduates rewarded with course credit*. Brain Stimulation.  
-  [https://doi.org/10.1016/j.brs.2020.08.015](https://doi.org/10.1016/j.brs.2020.08.015)
-
-* Vercillo, T., Carrasco, C., & Jiang, F. (2017). *Age-Related Changes in Sensorimotor Temporal Binding*. Frontiers in Human Neuroscience.  
-  [https://doi.org/10.3389/fnhum.2017.00500](https://doi.org/10.3389/fnhum.2017.00500)
-
-Presentations: Talks and Posters
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
 ======
-* *Emergent Model-Based Replay as a Function of Human Credit Assignment* (Poster), Society for Neuroscience, 2023  
-* *Multivariate EEG Approaches, Working Memory, and Contingency Learning* (Talk), Cognitive Brain Sciences Early Career Seminar Series, University of Nevada Reno, 2023  
-* *Rewards Elicit Choice Reactivation for Credit Assignment (updates)* (Poster), Society for Neuroscience, San Diego, 2022  
-* *Are Rare Stimuli that Produce a P3b Component Preferentially Encoded in Working Memory?* (Talk), Cognitive Neuroscience Society, San Francisco, 2022  
-* *A Comparison of ERPs, SVM Decoding, and Cross Mahalanobis Distance Analysis in EEG* (Talk), UCD EEG Meeting, UC Davis, 2021  
-* *Rewards Elicit Choice Reactivation for Credit Assignment* (Poster), Society for Neuroscience Virtual, 2021  
-  [https://www.youtube.com/watch?v=dupIwgOyVlQ&t=190s](https://www.youtube.com/watch?v=dupIwgOyVlQ&t=190s)  
-* *Behavioral Oscillations in Working Memory* (Talk), Ronald McNair Scholars Symposium, UC Berkeley, 2017  
-* *Working Memory and Influences of Selective Attention* (Poster), Nevada Undergraduate Research Symposium, UNR, 2017  
-* *Age-related Changes in Sensorimotor Temporal Binding* (Poster), International Multisensory Research Forum, Vanderbilt University, 2017  
-* *Working Memory and Selective Attention* (Poster), Psi Chi Annual Research Symposium, UNR, 2016  
-
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
 Teaching
 ======
 * Teaching Assistant, PSC 001Y – General Psychology | UC Davis, April 2024 – June 2024  
