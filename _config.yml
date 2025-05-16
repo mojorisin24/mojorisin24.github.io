@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Carlos"
+  name             : "Carlos Daniel Carrasco"
   pronouns         : "he/him"
   bio              : "Postdoctoral Scholar"
   location         : "Earth"
@@ -220,10 +220,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  consulting:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
