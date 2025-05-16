@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-## Work Experience
+## Professional Positions
 
 **Postdoctoral Scholar**, UCSF  
 *May 2025 – Present*
