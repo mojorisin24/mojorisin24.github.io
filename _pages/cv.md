@@ -12,43 +12,43 @@ redirect_from:
 ## Education
 
 **Ph.D. in Neuroscience**, University of California, Davis, 2024  
-*Advisors: Steven J. Luck, Erie D. Boorman*
+Advisors: Steven J. Luck, Erie D. Boorman
 
 **B.S. in Neuroscience**, University of Nevada, Reno, 2017  
-*Advisor: Marian Berryhill*
+Advisor: Marian Berryhill
 
 ---
 
-## Professional Positions
+## Work Experience
 
-**Postdoctoral Scholar**, UCSF  
-*May 2025 – Present*
+**Postdoctoral Scholar**, University of California, San Francisco  
+May 2025 – Present
 
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
-*Oct 2024 – May 2025*
+October 2024 – May 2025
 
-**Affiliate**, Center for Mind and Brain, UC Davis  
-*June 2024 – Present*
+**Affiliate**, Center for Mind and Brain, University of California, Davis  
+June 2024 – Present
 
-**Graduate Student Researcher**, UC Davis  
-*July 2021 – March 2024*
+**Graduate Student Researcher**, University of California, Davis  
+July 2021 – March 2024
 
-**Graduate Research Fellow**, UC Davis  
-*August 2018 – Sept 2020*
+**Graduate Research Fellow**, University of California, Davis  
+August 2018 – September 2020
 
-**Lab Manager/Jr. Research Specialist**, UNR  
-*Jan 2018 – July 2018*
+**Lab Manager / Junior Research Specialist**, University of Nevada, Reno  
+January 2018 – July 2018
 
-**Student Research Assistant**, UNR  
-*August 2015 – Dec 2017*
+**Student Research Assistant**, University of Nevada, Reno  
+August 2015 – December 2017
 
 ---
 
 ## Skills
 
-- **Programming**: Python, R, MATLAB, Git, Bash  
-- **Toolboxes**: EEG/ERPLAB, Fieldtrip  
-- **Software**: Linux, Windows, Unix, GitHub, Psychopy, Microsoft Office Suite, Gimp, JASP, VS Code
+- Programming Languages: Python, R, MATLAB, Git, Bash  
+- Toolboxes: EEG/ERPLAB, Fieldtrip  
+- Software: Linux, Windows, Unix, GitHub, Psychopy, Microsoft Office Suite, Gimp, JASP, VS Code
 
 ---
 
@@ -74,21 +74,21 @@ redirect_from:
 
 ## Teaching
 
-- **TA**, PSC 001Y – General Psychology | UC Davis, *Apr 2024 – Jun 2024*  
-- **TA**, PSC 133 – NeuroEconomics | UC Davis, *Apr 2021 – Jun 2021*  
-- **TA**, PSC 001Y – General Psychology | UC Davis, *Sep 2020 – Mar 2021*  
-- **Discussion Leader**, NSC 298 – Neuroimaging Journal Club | UC Davis, *Jan 2018 – Sep 2019*  
-- **Discussion Leader**, SCI 110 – First Year Experience | UNR, *Sep 2015 – Dec 2015*
+- Teaching Assistant, PSC 001Y – General Psychology | University of California, Davis, April 2024 – June 2024  
+- Teaching Assistant, PSC 133 – NeuroEconomics | University of California, Davis, April 2021 – June 2021  
+- Teaching Assistant, PSC 001Y – General Psychology | University of California, Davis, September 2020 – March 2021  
+- Discussion Leader, NSC 298 – Neuroimaging Journal Club | University of California, Davis, January 2018 – September 2019  
+- Discussion Leader, SCI 110 – First Year Experience: Science and Mathematics | University of Nevada, Reno, September 2015 – December 2015
 
 ---
 
 ## Service and Leadership
 
-- **Undergraduate Speaker**, Advancing Diversity in Neuroscience | UC Davis, *2024*  
-- **Undergraduate Mentor**, Advancing Diversity in Neuroscience | UC Davis, *2023*  
-- **Mentor**, McNair Scholars Program | UC Davis, *2021*  
-- **Peer Mentor**, Neuroscience Graduate Group | UC Davis, *2020*  
-- **Organizer**, NeuroFest (cancelled due to Covid) | UC Davis, *2020*  
-- **Outreach Lead**, Brain Awareness, Elementary Schools | UC Davis, *2019*  
-- **Volunteer**, Brain Awareness Week | UNR & UC Davis, *2017–2018*
-
+- Undergraduate Speaker, Advancing Diversity in Neuroscience Research | University of California, Davis, 2024  
+- Undergraduate Mentor, Advancing Diversity in Neuroscience Research | University of California, Davis, 2023  
+- McNair Scholars Connection Mentor | University of California, Davis, 2021  
+- Peer Mentor, Neuroscience Graduate Group | University of California, Davis, 2020  
+- NeuroFest Organizer | University of California, Davis, 2020 (cancelled due to Covid)  
+- Brain Awareness Outreach Lead, Elementary School | University of California, Davis, 2019  
+- Brain Awareness Outreach Volunteer, Elementary School | University of California, Davis, 2018  
+- Brain Awareness Week Outreach Volunteer | University of Nevada, Reno, 2017
