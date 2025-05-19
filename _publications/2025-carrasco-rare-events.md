@@ -2,7 +2,7 @@
 title: "Enhanced Working Memory Representations for Rare Events"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-carrasco-rare-events.md
+permalink: /publication/2025-carrasco-rare-events
 excerpt: 'This study shows that rare, task-relevant stimuli elicit stronger working memory representations, indexed by behavioral accuracy, reduced bias, and enhanced EEG decoding.'
 date: 2025-02-23
 venue: 'Psychophysiology'

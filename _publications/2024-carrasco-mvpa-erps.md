@@ -2,7 +2,7 @@
 title: "Using multivariate pattern analysis to increase effect sizes for event-related potential analyses"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-carrasco-mvpa-erps.md
+permalink: /publication/2024-carrasco-mvpa-erps
 excerpt: 'This study demonstrates that multivariate pattern analysis (MVPA) can enhance effect sizes in ERP research, offering greater statistical power than traditional univariate methods.'
 date: 2024-07-01
 venue: 'Psychophysiology'

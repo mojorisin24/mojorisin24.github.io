@@ -2,7 +2,7 @@
 title: "A database of upper limb surface electromyogram signals from demographically diverse individuals"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-gowda-carrasco-emg.md
+permalink: /publication/2025-gowda-carrasco-emg
 excerpt: 'An open-access EMG dataset from 91 diverse adults, co-led by Carrasco, supports research on fairness and variability in gesture decoding.'
 date: 2025-03-27
 venue: 'Scientific Data'
