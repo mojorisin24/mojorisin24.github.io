@@ -27,7 +27,7 @@ May 2025 – Present
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
 October 2024 – May 2025
 
-**Affiliate**, Center for Mind and Brain, University of California, Davis  
+**Affiliate Researcher**, Center for Mind and Brain, University of California, Davis  
 June 2024 – Present
 
 **Graduate Student Researcher**, University of California, Davis  
