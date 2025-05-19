@@ -19,7 +19,7 @@ Advisor: Marian Berryhill
 
 ---
 
-## Work Experience
+## Professional Experience
 
 **Postdoctoral Scholar**, University of California, San Francisco  
 May 2025 – Present
@@ -74,21 +74,45 @@ August 2015 – December 2017
 
 ## Teaching
 
-- Teaching Assistant, PSC 001Y – General Psychology | University of California, Davis, April 2024 – June 2024  
-- Teaching Assistant, PSC 133 – NeuroEconomics | University of California, Davis, April 2021 – June 2021  
-- Teaching Assistant, PSC 001Y – General Psychology | University of California, Davis, September 2020 – March 2021  
-- Discussion Leader, NSC 298 – Neuroimaging Journal Club | University of California, Davis, January 2018 – September 2019  
-- Discussion Leader, SCI 110 – First Year Experience: Science and Mathematics | University of Nevada, Reno, September 2015 – December 2015
+**Teaching Assistant**, PSC 001Y – General Psychology  
+*University of California, Davis*, April 2024 – June 2024
+
+**Teaching Assistant**, PSC 133 – NeuroEconomics  
+*University of California, Davis*, April 2021 – June 2021
+
+**Teaching Assistant**, PSC 001Y – General Psychology  
+*University of California, Davis*, September 2020 – March 2021
+
+**Discussion Leader**, NSC 298 – Neuroimaging Journal Club  
+*University of California, Davis*, January 2018 – September 2019
+
+**Discussion Leader**, SCI 110 – First Year Experience: Science and Mathematics  
+*University of Nevada, Reno*, September 2015 – December 2015
 
 ---
 
 ## Service and Leadership
 
-- Undergraduate Speaker, Advancing Diversity in Neuroscience Research | University of California, Davis, 2024  
-- Undergraduate Mentor, Advancing Diversity in Neuroscience Research | University of California, Davis, 2023  
-- McNair Scholars Connection Mentor | University of California, Davis, 2021  
-- Peer Mentor, Neuroscience Graduate Group | University of California, Davis, 2020  
-- NeuroFest Organizer | University of California, Davis, 2020 (cancelled due to Covid)  
-- Brain Awareness Outreach Lead, Elementary School | University of California, Davis, 2019  
-- Brain Awareness Outreach Volunteer, Elementary School | University of California, Davis, 2018  
-- Brain Awareness Week Outreach Volunteer | University of Nevada, Reno, 2017
+**Undergraduate Speaker**, Advancing Diversity in Neuroscience Research  
+*University of California, Davis*, 2024
+
+**Undergraduate Mentor**, Advancing Diversity in Neuroscience Research  
+*University of California, Davis*, 2023
+
+**McNair Scholars Connection Mentor**  
+*University of California, Davis*, 2021
+
+**Peer Mentor**, Neuroscience Graduate Group  
+*University of California, Davis*, 2020
+
+**NeuroFest Organizer**  
+*University of California, Davis*, 2020 (cancelled due to Covid)
+
+**Brain Awareness Outreach Lead**, Elementary School  
+*University of California, Davis*, 2019
+
+**Brain Awareness Outreach Volunteer**, Elementary School  
+*University of California, Davis*, 2018
+
+**Brain Awareness Week Outreach Volunteer**  
+*University of Nevada, Reno*, 2017
