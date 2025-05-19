@@ -94,15 +94,18 @@
   }
 
   img {
-    max-width: 250px;
-    border-radius: 50%;
+  max-width: 250px;  // 👈 make it larger (or whatever size you want)
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+  @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
   }
 }
+
 
 .author__content {
   display: table-cell;
