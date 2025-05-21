@@ -74,11 +74,10 @@ August 2015 – December 2017
 
 ## Teaching
 
-**Teaching Assistant**, PSC 001Y – General Psychology  
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 ---
 
 ## Service and Leadership
