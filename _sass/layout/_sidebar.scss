@@ -80,7 +80,6 @@
    Author profile and links
    ========================================================================== */
 
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -93,7 +92,9 @@
   }
 
   img {
-    max-width: 250px; // 👈 Larger avatar image
+    max-width: 250px; // Keeps the image at a good size on all screens
+    width: 100%;
+    height: auto;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -105,9 +106,6 @@
     }
   }
 }
-
-
-
 
 .author__content {
   display: table-cell;
