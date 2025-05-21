@@ -7,6 +7,6 @@ excerpt: 'Working memory performance declines across the lifespan, partly due to
 date: 2025-05-05
 venue: 'PsyArXiv Preprint'
 paperurl: 'https://osf.io/preprints/psyarxiv/yjxen_v2'
-citation: '<b>Carrasco, C. D.<b>, Berryhill, M., & Jones, K. T. (2025). "Older Adults are Impaired by Distractors Presented During Working Memory Encoding." *PsyArXiv Preprint*. https://doi.org/10.31234/osf.io/yjxen'
+citation: '<b>Carrasco, C. D.</b>, Berryhill, M., & Jones, K. T. (2025). "Older Adults are Impaired by Distractors Presented During Working Memory Encoding." <i>PsyArXiv Preprint</i>. https://doi.org/10.31234/osf.io/yjxen'
 ---
 This preprint examines how aging affects vulnerability to distractors during working memory encoding. The study finds that older adults exhibit significantly reduced WM accuracy and increased distractor interference compared to younger adults, highlighting age-related declines in attentional control.
