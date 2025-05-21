@@ -75,20 +75,10 @@ August 2015 – December 2017
 ## Teaching
 
 **Teaching Assistant**, PSC 001Y – General Psychology  
-*University of California, Davis*, April 2024 – June 2024
-
-**Teaching Assistant**, PSC 133 – NeuroEconomics  
-*University of California, Davis*, April 2021 – June 2021
-
-**Teaching Assistant**, PSC 001Y – General Psychology  
-*University of California, Davis*, September 2020 – March 2021
-
-**Discussion Leader**, NSC 298 – Neuroimaging Journal Club  
-*University of California, Davis*, January 2018 – September 2019
-
-**Discussion Leader**, SCI 110 – First Year Experience: Science and Mathematics  
-*University of Nevada, Reno*, September 2015 – December 2015
-
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ---
 
 ## Service and Leadership
