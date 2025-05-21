@@ -46,11 +46,11 @@ August 2015 – December 2017
 
 ## Publications
 
-<ul>
+<!-- <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>
+</ul> -->
 
 ---
 
