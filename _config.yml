@@ -223,7 +223,7 @@ collections:
   consulting:
     output: true
     permalink: /:collection/:path/
-  presentations:
+  talks:
     output: true
     permalink: /:collection/:path/
 
