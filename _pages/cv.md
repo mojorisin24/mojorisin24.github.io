@@ -44,14 +44,6 @@ August 2015 – December 2017
 
 ---
 
-## Skills
-
-- Programming Languages: Python, R, MATLAB, Git, Bash  
-- Toolboxes: EEG/ERPLAB, Fieldtrip  
-- Software: Linux, Windows, Unix, GitHub, Psychopy, Microsoft Office Suite, Gimp, JASP, VS Code
-
----
-
 ## Publications
 
 <ul>
@@ -105,3 +97,13 @@ August 2015 – December 2017
 
 **Brain Awareness Week Outreach Volunteer**  
 *University of Nevada, Reno*, 2017
+
+---
+
+## Skills
+
+- Programming Languages: Python, R, MATLAB, Git, Bash  
+- Toolboxes: EEG/ERPLAB, Fieldtrip  
+- Software: Linux, Windows, Unix, GitHub, Psychopy, Microsoft Office Suite, Gimp, JASP, VS Code
+
+---
