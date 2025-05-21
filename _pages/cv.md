@@ -27,14 +27,14 @@ May 2025 – Present
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
 October 2024 – May 2025
 
-**Affiliate Researcher**, Center for Mind and Brain, University of California, Davis  
-June 2024 – Present
-
 **Graduate Student Researcher**, University of California, Davis  
-July 2021 – March 2024
+September 2020 – June 2024
 
-**Graduate Research Fellow**, University of California, Davis  
-August 2018 – September 2020
+**Learning and Memory Plasticity (LAMP) Program NIH Fellow**, University of California, Davis  
+September 2019 – September 2020
+
+**Inititiative for Maximizing Student Diversity NIH Fellow**, University of California, Davis  
+August 2018 – September 2019
 
 **Lab Manager / Junior Research Specialist**, University of Nevada, Reno  
 January 2018 – July 2018
@@ -46,11 +46,11 @@ August 2015 – December 2017
 
 ## Publications
 
-<!-- <ul>
+<ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul> -->
+</ul>
 
 ---
 
