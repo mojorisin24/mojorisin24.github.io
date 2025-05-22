@@ -19,7 +19,7 @@ Advisor: Marian Berryhill
 
 ---
 
-## Professional Experience
+## Professional and Acadmeic Positions
 
 **Postdoctoral Scholar**, University of California, San Francisco  
 May 2025 – Present
@@ -54,13 +54,25 @@ August 2015 – December 2017
 
 ---
 
-## Talks
+## Talks and Poster Presentations 
 
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
+
+---
+
+## Honors and Awards
+
+**Graduate Student Association Travel Award**, University of California, Davis, 2023  
+**Graduate Student Association Travel Award**, University of California, Davis, 2021  
+**Learning Memory and Plasticity Training Program NIH Fellow**, University of California, Davis, 2019–2020  
+**Initiative for Maximizing Student Development NIH Fellow**, University of California, Davis, 2018–2019  
+**NSF EPSCoR Undergraduate Research Opportunity Program Award**, University of Nevada, Reno, 2017  
+**Ronald E. McNair Scholar**, University of Nevada, Reno, 2016–2017  
+**Nevada Undergraduate Research Award**, University of Nevada, Reno, 2016
 
 ---
 
