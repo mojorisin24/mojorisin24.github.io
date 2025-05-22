@@ -1,17 +1,15 @@
 ---
-title: "Understanding Scalp Electrophysiology via Machine Learning: Insights into Working Memory and Credit Assignment"
+title: "Bridging Scales in Human Electrophysiology: From Single Units to Scalp EEG"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-exit-seminar-machine-learning-eeg
-venue: "PhD Exit Seminar, University of California, Davis"
-date: 2024-06-10
-location: "Davis, CA, USA"
+permalink: /talks/2019-berryhill-lab-electrophys
+venue: "Berryhill Lab Seminar, University of Nevada, Reno"
+date: 2019-10-01
+location: "Reno, NV, USA"
 ---
 
-This PhD exit seminar presented research exploring how machine learning techniques can enhance our understanding of scalp-recorded electrophysiological signals in the context of working memory and decision-making.
+Gave a lab seminar to the Berryhill Lab covering a broad methodological overview of human electrophysiology across multiple spatial scales. The talk traced my work beginning with single-unit recordings in humans, progressing through projects involving local field potentials (LFPs), and culminating in noninvasive scalp EEG recordings.
 
-The talk began by reviewing canonical event-related potential (ERP) components, traditionally studied using univariate methods, and introduced multivariate decoding approaches to improve detection and interpretation of these signals. In the second section, I examined whether the P3b component reflects enhanced working memory representations, drawing on converging evidence from behavioral data, univariate ERP analysis, and neural decoding.
+The presentation emphasized key methodological considerations specific to each recording technique—such as spatial resolution, signal origin, and noise characteristics—while also highlighting analytical parallels across all levels of measurement. I discussed common time-series approaches (e.g., spectral analysis, event-related averaging, multivariate decoding) and how these techniques can be adapted and interpreted across different electrophysiological domains.
 
-The final section shifted focus to contingency learning, applying machine learning to both scalp voltages and alpha-band power in a two-armed bandit paradigm. I tested whether working memory representations were reactivated at feedback to support credit assignment for unsustained items, revealing evidence of memory reinstatement and decision-linked reactivation.
-
-This work demonstrates the value of machine learning in electrophysiological research and contributes to ongoing efforts to decode the contents and timing of working memory from noninvasive neural data.
+The goal was to illustrate both the unique contributions and the shared challenges of analyzing neural signals across the invasive-to-noninvasive continuum.
