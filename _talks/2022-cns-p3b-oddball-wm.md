@@ -1,13 +1,13 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Are Rare Stimuli that Produce a P3b Component Preferentially Encoded in Working Memory?"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/2022-cns-p3b-oddball-wm
+venue: "Cognitive Neuroscience Society Annual Meeting"
+date: 2022-04-25
+location: "San Francisco, CA, USA"
 ---
 
-[More information here](http://example2.com)
+Presented preliminary findings suggesting that rare, task-relevant stimuli — typically evoking a P3b component — are preferentially encoded in working memory. This talk highlighted behavioral and electrophysiological evidence showing that oddball stimuli elicit stronger working memory representations compared to frequent stimuli.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+The results pointed toward a privileged status for rare events in memory encoding, possibly due to attentional prioritization or reduced proactive interference. This work later led to a peer-reviewed publication in *Psychophysiology* (2025).
