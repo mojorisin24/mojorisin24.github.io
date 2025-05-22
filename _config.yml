@@ -220,7 +220,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  consulting:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -353,3 +353,4 @@ compress_html:
   ignore:
     envs: development
 
+ 
