@@ -66,13 +66,26 @@ August 2015 – December 2017
 
 ## Honors and Awards
 
-**Graduate Student Association Travel Award**, University of California, Davis, 2023  
-**Graduate Student Association Travel Award**, University of California, Davis, 2021  
-**Learning Memory and Plasticity Training Program NIH Fellow**, University of California, Davis, 2019–2020  
-**Initiative for Maximizing Student Development NIH Fellow**, University of California, Davis, 2018–2019  
-**NSF EPSCoR Undergraduate Research Opportunity Program Award**, University of Nevada, Reno, 2017  
-**Ronald E. McNair Scholar**, University of Nevada, Reno, 2016–2017  
-**Nevada Undergraduate Research Award**, University of Nevada, Reno, 2016
+**Graduate Student Association Travel Award**  
+*University of California, Davis*, 2023
+
+**Graduate Student Association Travel Award**  
+*University of California, Davis*, 2021
+
+**Learning Memory and Plasticity Training Program NIH Fellow**  
+*University of California, Davis*, 2019–2020
+
+**Initiative for Maximizing Student Development NIH Fellow**  
+*University of California, Davis*, 2018–2019
+
+**NSF EPSCoR Undergraduate Research Opportunity Program Award**  
+*University of Nevada, Reno*, 2017
+
+**Ronald E. McNair Scholar**  
+*University of Nevada, Reno*, 2016–2017
+
+**Nevada Undergraduate Research Award**  
+*University of Nevada, Reno*, 2016
 
 ---
 
