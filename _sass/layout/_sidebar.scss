@@ -91,8 +91,14 @@
     height: auto;
   }
 
+  // ✅ Add this to make it larger on smaller screens
+  @media screen and (max-width: 1024px) {
+    width: auto;
+    display: block;
+  }
+
   img {
-    max-width: 250px; // Keeps the image at a good size on all screens
+    max-width: 250px;
     width: 100%;
     height: auto;
     border-radius: 50%;
@@ -104,8 +110,14 @@
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
+
+    // ✅ Add this to make image bigger on narrow screens
+    @media screen and (max-width: 1024px) {
+      max-width: 200px;
+    }
   }
 }
+
 
 .author__content {
   display: table-cell;
