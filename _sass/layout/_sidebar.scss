@@ -277,3 +277,29 @@
     }
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+
+  .author__urls-wrapper {
+    margin-top: 10px;
+  }
+
+  .author__urls {
+    position: static;
+    display: block;
+    box-shadow: none;
+    padding-top: 10px;
+  }
+
+  .author__urls li {
+    display: inline-block;
+    margin: 0 5px;
+  }
+}
