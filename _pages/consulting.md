@@ -15,4 +15,4 @@ I offer consulting services in the following areas:
 - Training and one-on-one support for EEG/ERP and MVPA workflows
 - Data science and visualization for behavioral and neural datasets
 
-Please contact me via [email](carlos.daniel.carrasco96@gmail.com) to discuss project needs, rates, and availability.
+Please contact me via [email](Carlos.Carrasco@ucsf.edu) to discuss project needs, rates, and availability.
