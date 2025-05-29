@@ -2,7 +2,7 @@
 title: "Age-Related Changes in Sensorimotor Temporal Binding"
 collection: publications
 category: manuscripts
-permalink: /publication/2017-vercillo-sensorimotor-temporal-bindings
+permalink: /publication/2017-vercillo-sensorimotor-temporal-binding
 excerpt: 'This study investigates how aging affects the temporal coupling between voluntary actions and sensory outcomes, revealing declines in both temporal sensitivity and sensorimotor recalibration.'
 date: 2017-10-12
 venue: 'Frontiers in Human Neuroscience'

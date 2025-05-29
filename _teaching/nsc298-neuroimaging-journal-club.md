@@ -18,6 +18,7 @@ Key contributions:
 - Curated weekly readings across modalities such as fMRI, EEG, iEEG, MEG, and TMS
 - Led critical discussions and structured journal evaluations
 - Designed and delivered supplemental material on statistics and methodology
+- Designed and delivered supplemental material on statistics and methodology
 - Coordinated student presentations and supported peer-led discussions
 
 The course fostered advanced critical thinking and methodological fluency in imaging research, especially during an evolving era of cognitive neuroscience.
