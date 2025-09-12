@@ -19,7 +19,7 @@ Advisor: Marian Berryhill
 
 ---
 
-## Professional and Acadmeic Positions
+## Professional and Academic Positions
 
 **Postdoctoral Scholar**, University of California, San Francisco  
 May 2025 – Present
