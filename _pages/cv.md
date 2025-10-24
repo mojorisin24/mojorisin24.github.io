@@ -21,7 +21,7 @@ Advisor: Marian Berryhill
 
 ## Professional and Academic Positions
 
-**Postdoctoral Scholar**, University of California, San Francisco  
+**Research Scholar**, University of California, San Francisco  
 May 2025 – Present
 
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
