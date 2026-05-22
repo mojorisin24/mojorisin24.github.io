@@ -21,7 +21,8 @@ Advisor: Marian Berryhill
 
 ## Professional and Academic Positions
 
-**Research Scholar**, University of California, San Francisco  
+**Postdoctoral Scholar**, University of California, San Francisco / SFVA  
+Brain Imaging and EEG Lab — Supervisor: Dr. Daniel Mathalon, PhD MD  
 May 2025 – Present
 
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
