@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Carlos Daniel Carrasco, Neuroscientist"
+title                    : "Carlos Daniel Carrasco, PhD — Computational Neuroscientist"
 title_separator          : "-"
 name                     : &name "Carlos Daniel Carrasco"
-description              : &description "personal description"
+description              : &description "Computational neuroscientist specializing in biomarker discovery — machine learning, MVPA, and PCA applied to EEG/neural data for scalable, translational CNS biomarkers."
 url                      : https://mojorisin24.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Carlos Daniel Carrasco"
   pronouns         : "he/him"
-  bio              : "Postdoctoral Scholar | Brain Imaging & EEG Lab, UCSF/SFVA"
+  bio              : "Computational Neuroscientist | Biomarker Discovery · Machine Learning · EEG"
   location         : "Earth"
   employer         : "UCSF"
   uri              : # URL
