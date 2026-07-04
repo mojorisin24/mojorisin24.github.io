@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+## Summary
+
+Computational neuroscientist (PhD) specializing in **biomarker discovery** for CNS disorders. I apply machine learning, multivariate pattern analysis (MVPA), and PCA to high-dimensional EEG/neural data to build reliable, reproducible, and scalable biomarkers — from raw signal through validation. Direct experience with clinical high-risk populations and end-to-end analysis pipelines. Seeking computational neuroscience / biomarker / data science roles in biotech and pharma.
+
+---
+
 ## Education
 
 **Ph.D. in Neuroscience**, University of California, Davis, 2024  
@@ -128,8 +134,9 @@ August 2015 – December 2017
 
 ## Skills
 
-- Programming Languages: Python, R, MATLAB, Git, Bash  
-- Toolboxes: EEG/ERPLAB, Fieldtrip  
-- Software: Linux, Windows, Unix, GitHub, Psychopy, Microsoft Office Suite, Gimp, JASP, VS Code
+- **Machine Learning & Statistics:** Multivariate pattern analysis (MVPA), PCA, classification/decoding, supervised & unsupervised methods, cross-validation, model reliability & reproducibility
+- **Biomarker & Signal Analysis:** EEG/ERP feature extraction, high-dimensional neural data analysis, biomarker discovery & validation, reproducible analysis pipelines
+- **Programming:** Python (NumPy, pandas, scikit-learn), R, MATLAB, Bash, Git/GitHub
+- **Toolboxes & Software:** EEGLAB/ERPLAB, FieldTrip, PsychoPy, JASP, VS Code; Linux/Unix, Windows
 
 ---
