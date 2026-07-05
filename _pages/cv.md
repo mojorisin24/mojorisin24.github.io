@@ -11,7 +11,7 @@ redirect_from:
 
 ## Summary
 
-Computational neuroscientist (PhD) specializing in **biomarker discovery** for CNS disorders. I apply machine learning, multivariate pattern analysis (MVPA), and PCA to high-dimensional EEG/neural data to build reliable, reproducible, and scalable biomarkers — from raw signal through validation. Direct experience with clinical high-risk populations and end-to-end analysis pipelines. Seeking computational neuroscience / biomarker / data science roles in biotech and pharma.
+Computational neuroscientist (PhD) specializing in **biomarker discovery** for CNS disorders. I apply machine learning, multivariate pattern analysis (MVPA), and PCA to high-dimensional EEG/neural data to build reliable, reproducible, and scalable biomarkers, from raw signal through validation. Direct experience with clinical high-risk populations and end-to-end analysis pipelines. Seeking computational neuroscience / biomarker / data science roles in biotech and pharma.
 
 ---
 
@@ -28,7 +28,7 @@ Advisor: Marian Berryhill
 ## Professional and Academic Positions
 
 **Postdoctoral Scholar**, University of California, San Francisco / SFVA  
-Brain Imaging and EEG Lab — Supervisor: Dr. Daniel Mathalon, PhD MD  
+Brain Imaging and EEG Lab, Supervisor: Dr. Daniel Mathalon, PhD MD  
 May 2025 – Present
 
 **Research Data Specialist I**, Office of Energy Infrastructure Safety  
