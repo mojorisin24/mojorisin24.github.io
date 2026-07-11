@@ -5,15 +5,15 @@ permalink: /consulting/
 author_profile: true
 ---
 
-I offer consulting services in the following areas:
+I offer consulting and contract support in the following areas:
 
-- EEG/ERP experimental design and preprocessing (EEG/ERPLAB, MNE, FieldTrip)
+- Multisite EEG/neuroimaging study coordination and data management
+- EEG/ERP data quality assurance, cleaning, and multisite harmonization (BIDS, normative z-scoring)
+- EEG/ERP experimental design and preprocessing (EEGLAB/ERPLAB, MNE, FieldTrip)
 - Multivariate pattern analysis (MVPA) and neural decoding pipelines (MATLAB, Python, R)
-- Cognitive task design (working memory, attention, decision-making)
-- Advanced statistical modeling for time series data (e.g., mixed models, permutation tests)
+- Advanced statistical modeling for time-series and neural data (mixed-effects models, permutation tests)
+- Reproducible analysis pipelines and HPC preprocessing (fMRIPrep, SGE/Linux)
 - Manuscript and grant support (methods, stats, writing)
 - Training and one-on-one support for EEG/ERP and MVPA workflows
-- Data science and visualization for behavioral and neural datasets
-- Leaving academia and transitioning to goverment work 
 
 Please contact me via [email](mailto:carlos.carrasco@ucsf.edu) to discuss project needs, rates, and availability.

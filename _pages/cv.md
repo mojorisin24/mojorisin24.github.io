@@ -11,7 +11,7 @@ redirect_from:
 
 ## Summary
 
-Computational neuroscientist (PhD) specializing in **biomarker discovery** for CNS disorders. I apply machine learning, multivariate pattern analysis (MVPA), and PCA to high-dimensional EEG/neural data to build reliable, reproducible, and scalable biomarkers, from raw signal through validation. Direct experience with clinical high-risk populations and end-to-end analysis pipelines. Seeking computational neuroscience / biomarker / data science roles in biotech and pharma.
+Ph.D. neuroscientist and **clinical EEG researcher** experienced in running multisite clinical studies from acquisition through analysis and publication. I coordinate EEG and neuroimaging data across partner sites in large consortia (NIH AMP-SCZ, NAPLS), lead the quality assurance, cleaning, and BIDS harmonization that turns messy clinical inputs into reliable, machine-readable datasets, and support PIs and clinical teams across concurrent projects. Deep analysis background in mixed-effects models, MVPA/decoding, and PCA applied to high-dimensional neural data for biomarker discovery in clinical high-risk populations.
 
 ---
 
@@ -134,9 +134,10 @@ August 2015 – December 2017
 
 ## Skills
 
-- **Machine Learning & Statistics:** Multivariate pattern analysis (MVPA), PCA, classification/decoding, supervised & unsupervised methods, cross-validation, model reliability & reproducibility
-- **Biomarker & Signal Analysis:** EEG/ERP feature extraction, high-dimensional neural data analysis, biomarker discovery & validation, reproducible analysis pipelines
+- **Clinical Research:** Multisite study coordination, investigator-initiated studies, study design, PI & stakeholder liaison, IRB/regulatory-aware data handling, publication
+- **Data Curation & QA:** EEG/ERP quality assurance & cleaning, multisite harmonization, BIDS, normative z-scoring, machine-readable data preparation, fMRIPrep preprocessing
+- **Machine Learning & Statistics:** Mixed-effects models, multivariate pattern analysis (MVPA), PCA/tPCA, LDA & SVM decoding, cross-validation, model reliability & reproducibility
 - **Programming:** Python (NumPy, pandas, scikit-learn), R, MATLAB, Bash, Git/GitHub
-- **Toolboxes & Software:** EEGLAB/ERPLAB, FieldTrip, PsychoPy, JASP, VS Code; Linux/Unix, Windows
+- **Toolboxes & Software:** EEGLAB/ERPLAB, FieldTrip, fMRIPrep, PsychoPy, JASP, VS Code; HPC (SGE), Linux/Unix, Windows
 
 ---
