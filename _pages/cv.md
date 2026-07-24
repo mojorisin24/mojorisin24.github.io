@@ -11,7 +11,7 @@ redirect_from:
 
 ## Summary
 
-Ph.D. neuroscientist and **clinical EEG researcher** experienced in running multisite clinical studies from acquisition through analysis and publication. I coordinate EEG and neuroimaging data across partner sites in large consortia (NIH AMP-SCZ, NAPLS), lead the quality assurance, cleaning, and BIDS harmonization that turns messy clinical inputs into reliable, machine-readable datasets, and support PIs and clinical teams across concurrent projects. Deep analysis background in mixed-effects models, MVPA/decoding, and PCA applied to high-dimensional neural data for biomarker discovery in clinical high-risk populations.
+Cognitive and computational neuroscientist studying the human brain with EEG (and fMRI) and modern computational methods. I develop multivariate decoding and dimensionality-reduction tools for EEG/ERP and apply them across basic cognition (attention, working memory) and clinical translation (biomarkers of psychosis risk), working with large consortium datasets (NIH AMP-SCZ, NAPLS). Analysis background spans mixed-effects models, MVPA/decoding, and PCA for high-dimensional neural data.
 
 ---
 
