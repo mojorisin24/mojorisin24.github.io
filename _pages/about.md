@@ -7,21 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. neuroscientist and **clinical EEG researcher** experienced in running multisite clinical studies from data acquisition through analysis and publication. I coordinate EEG and neuroimaging data across partner sites, run the quality assurance, cleaning, and harmonization that turns messy clinical inputs into reliable, machine-readable datasets, and help principal investigators and clinical teams keep concurrent projects moving.
+I am a cognitive and computational neuroscientist who studies the human brain with EEG (and fMRI) and modern computational methods. My work spans **basic and translational cognitive neuroscience**: I ask how the brain prioritizes rare, salient, and behaviorally relevant information in attention and working memory, and I use those same signals and methods to build biomarkers for the early detection of psychosis.
 
-My work sits in large international consortia. As a Postdoctoral Scholar with Dr. Daniel Mathalon at **UCSF and the San Francisco VA**, I manage EEG and clinical data flow across the NIH **AMP-SCZ** and **NAPLS** multisite networks, curating data from many partner sites into BIDS-harmonized, analysis-ready form and running preprocessing pipelines on UCSF's high-performance computing cluster. The goal is practical and translational: build reliable biomarkers for the early detection of psychosis and support the clinical programs that depend on trustworthy data.
+I am currently a Postdoctoral Scholar with Dr. Daniel Mathalon at **UCSF and the San Francisco VA**, where I analyze large-scale EEG and fMRI data from the NIH **AMP-SCZ** and **NAPLS** consortia to identify electrophysiological markers of psychosis risk. I earned my **Ph.D. in Neuroscience from UC Davis (2024)** with Dr. Steven J. Luck at the Center for Mind and Brain, where I ran EEG/ERP studies of attention and working memory and developed multivariate decoding and dimensionality-reduction tools now used across the lab.
 
-**What I bring to a clinical research team:**
+**My research program** brings these threads together into an open-access, computationally driven lab. I develop methods that extract more information from human electrophysiology, apply them to the cognitive processes that shape what the brain encodes, and translate those signals into clinically useful biomarkers — all built on large, openly available datasets rather than on-site data collection.
 
-- **Multisite study coordination:** end-to-end management of EEG/clinical data across partner sites, from acquisition through analysis and publication, with direct PI and stakeholder liaison.
-- **Data curation & QA:** EEG/ERP quality checks, cleaning, and multisite harmonization (BIDS, normative z-scoring) that produce reliable, machine-readable datasets for downstream analysis and algorithm development.
-- **Clinical & translational focus:** hands-on work with clinical high-risk populations and the biomarker questions that matter for early detection and intervention in schizophrenia.
-- **Analysis depth:** mixed-effects models, MVPA/decoding, and PCA applied to high-dimensional neural data, backed by reproducible, well-documented pipelines.
+I am on the academic job market, seeking a **tenure-track faculty position** where I can build this lab, teach across the biological psychology and cognitive neuroscience curriculum, and mentor students — especially first-generation students like me — into research.
 
-My highlighted project tracked P300 habituation across one of the largest clinical high-risk EEG samples ever assembled (>2,200 participants) in the AMP-SCZ consortium, using two independent measures to identify a candidate biomarker dissociation, presented at SOBP 2026 and now in preparation for publication.
+**Research interests:** human EEG/ERP · attention, working memory, and salience (the P300) · multivariate decoding and machine learning for neural data · biomarkers of psychosis risk · reproducible, open science.
 
-I earned my **Ph.D. in Neuroscience from UC Davis (2024)**, training with Dr. Steven J. Luck at the Center for Mind and Brain, where I designed and executed EEG/ERP studies end to end and built decoding tools adopted across the lab.
+One current project tracks P300 habituation across one of the largest clinical high-risk EEG samples ever assembled (>2,200 participants) in the AMP-SCZ consortium, using two independent measures to identify a candidate biomarker dissociation — presented at SOBP 2026 and now in preparation.
 
-I'm open to **clinical research, EEG/biomarker, and neural data roles**. If you're running multisite clinical or neuroimaging studies and need someone who can turn complex, distributed data into reliable results, I'd love to talk. Reach me at [Carlos.Carrasco@ucsf.edu](mailto:Carlos.Carrasco@ucsf.edu).
+As a first-generation, Mexican-American scientist, I care deeply about opening research to students who don't always see a path into it, and I mentor with that in mind.
 
-Outside of the lab, I enjoy exploring the outdoors, playing guitar, and spending time with friends.
+Outside the lab, I enjoy exploring the outdoors, playing guitar, and spending time with friends. Feel free to reach out at [Carlos.Carrasco@ucsf.edu](mailto:Carlos.Carrasco@ucsf.edu).
