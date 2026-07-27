@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" download>Download CV (PDF)</a></p>
+
 ## Summary
 
 Cognitive and computational neuroscientist studying the human brain with EEG (and fMRI) and modern computational methods. I develop multivariate decoding and dimensionality-reduction tools for EEG/ERP and apply them across basic cognition (attention, working memory) and clinical translation (biomarkers of psychosis risk), working with large consortium datasets (NIH AMP-SCZ, NAPLS). Analysis background spans mixed-effects models, MVPA/decoding, and PCA for high-dimensional neural data.
