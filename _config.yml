@@ -13,7 +13,7 @@ title                    : "Carlos Daniel Carrasco, PhD"
 title_separator          : "-"
 name                     : &name "Carlos Daniel Carrasco"
 description              : &description "Cognitive and computational neuroscientist studying the human brain with EEG and machine learning, spanning basic cognition and translational biomarker research."
-url                      : https://mojorisin24.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://carlosdanielcarrasco.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mojorisin24"
+  github           : "carlosdanielcarrasco"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
