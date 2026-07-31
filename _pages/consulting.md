@@ -5,6 +5,8 @@ permalink: /consulting/
 author_profile: true
 ---
 
+I'm a Subject Matter Expert at [Red Team Bio](https://www.redteambio.com), where we bring doctoral-level expertise to scientific and medical research challenges.
+
 I offer consulting and contract support in the following areas:
 
 - Multisite EEG/neuroimaging study coordination and data management
